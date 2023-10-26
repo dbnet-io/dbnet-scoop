@@ -1,12 +1,12 @@
 {
-    "version": "0.0.81",
+    "version": "0.0.82",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dbnet-io/dbnet/releases/download/v0.0.81/dbnet_windows_amd64.tar.gz",
+            "url": "https://github.com/dbnet-io/dbnet/releases/download/v0.0.82/dbnet_windows_amd64.tar.gz",
             "bin": [
                 "dbnet.exe"
             ],
-            "hash": "68b4dbeba652b95555b14092ac1a14f7c0e41a11f8190ad8a4f8d5dcd15311ca"
+            "hash": "f16f6191aa0e2b043f699ff4c2cabb04dba9834bcd233274b5da0714d7d3ab4c"
         }
     },
     "homepage": "https:/github.com/dbnet-io/dbnet",
